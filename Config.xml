@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>	
+<SaveSetting>							
+<LoginID></LoginID>											
+<TransactionKey></TransactionKey>			
+<LocationID></LocationID>		
+<IsStandAlone></IsStandAlone>		
+<Printer></Printer>			
+<PaperSize>1</PaperSize>					
+<NumberCopy>1</NumberCopy>			
+<IsRing>1</IsRing>	
+<CharacterLength>32</CharacterLength>				
+<FontSize>11</FontSize>			
+<AlertEmail>alany@menudrive.com</AlertEmail>		
+</SaveSetting>	
